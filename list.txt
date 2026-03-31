@@ -1,3 +1,4 @@
+
 Detergents
 Soap
 Bathing soap
@@ -5,4 +6,16 @@ Gloves
 Washing powder
 Vim
 Shampoo
+Spoons
+Pans
+Spatulla
+Cabbages
+Meat
+Tomatoes
+Biscuits
+Pringles
+Crisps
+Chocolate
+winnaz
+Oreo
 
